@@ -1,3 +1,16 @@
+# ENTENTE: Cross-silo Intrusion Detection on Network Log Graphs with Federated Learning
+Our paper `ENTENTE: Cross-silo Intrusion Detection on Network Log Graphs with Federated Learning` will be presented at the NDSS Symposium 2026!
+
+## Citation
+```
+@article{xu2025entente,
+  title={Entente: Cross-silo Intrusion Detection on Network Log Graphs with Federated Learning},
+  author={Xu, Jiacen and Li, Chenang and Zheng, Yu and Li, Zhou},
+  journal={arXiv preprint arXiv:2503.14284},
+  year={2025}
+}
+```
+
 ## Setup
 
 #### Python Environment
